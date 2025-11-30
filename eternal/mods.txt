@@ -1,0 +1,17 @@
+VERSION = 1,
+
+mods
+{
+	mod = AutoMecanicaBR,
+	mod = fastReadingIWBUMS,
+	mod = BB_CommonSense,
+	mod = Brita_2,
+	mod = VISIBLE_BACKPACK_BACKGROUND,
+	mod = CleanDirt,
+	mod = ChangeSandBox,
+	mod = SkillRecoveryJournal,
+}
+
+maps
+{
+}
